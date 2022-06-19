@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrimsonMessup and im new in this world.
 - 👀 I’m interested in software and game development
-- 🌱 I’m currently learning c# and Unity
+- 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on all kind of projects
 - 📫 How to reach me ...
 
